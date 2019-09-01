@@ -1,6 +1,7 @@
 /.vs
-/OpenTrackerDriver/Debug
-/OpenTrackerDriver/Release
-/OpenTrackerDriver/__vm
+/src/.vs
+/src/OpenTrackerDriver/Debug
+/src/OpenTrackerDriver/Release
+/src/OpenTrackerDriver/__vm
 *.suo
 *.user
