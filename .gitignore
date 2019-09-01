@@ -1,1 +1,6 @@
-/.vs/OpenTrackerDriver/v16/*.suo
+/.vs
+/OpenTrackerDriver/Debug
+/OpenTrackerDriver/Release
+/OpenTrackerDriver/__vm
+*.suo
+*.user
